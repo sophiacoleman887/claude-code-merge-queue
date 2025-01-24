@@ -1,0 +1,10 @@
+{
+  "name": "claude-code-merge-queue",
+  "version": "0.1.0",
+  "description": "Local merge queue for parallel Claude Code agents",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
